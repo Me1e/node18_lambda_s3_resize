@@ -83,7 +83,7 @@ export const handler = async (event) => {
   if (!origImage) return;
 
   // 이미지의 새로운 너비를 설정합니다.
-  const width = parseInt(process.env.width || '200');
+  const width = parseInt('200');
 
   // 이미지의 크기를 조절합니다.
   const resizedImage = await resizeImage(origImage, width);
