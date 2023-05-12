@@ -1,6 +1,5 @@
 {
   "name": "node18_lambda_s3_resize",
-  "description": "node 18 버전에서 잘 동작하는 s3 리사이징 코드입니다.",
   "author": "Me1e",
   "license": "ISC",
   "dependencies": {
