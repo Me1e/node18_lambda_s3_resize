@@ -1,21 +1,8 @@
 {
   "name": "node18_lambda_s3_resize",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.mjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Me1e/node18_lambda_s3_resize.git"
-  },
+  "description": "node 18 버전에서 잘 동작하는 s3 리사이징 코드입니다.",
   "author": "Me1e",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Me1e/node18_lambda_s3_resize/issues"
-  },
-  "homepage": "https://github.com/Me1e/node18_lambda_s3_resize#readme",
   "dependencies": {
     "sharp": "^0.32.1"
   }
